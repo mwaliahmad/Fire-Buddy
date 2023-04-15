@@ -19,3 +19,4 @@ Use arrow keys of your keyboard to control movement of Buddy and SPACE to fire
 # Game Release
 
 The compiled binaries of game are available at the release page:
+[Release Link](https://github.com/mwaliahmad/Fire-Buddy/releases/tag/v1.0)
